@@ -1,4 +1,4 @@
-# TS NODE TEMPLATE
+# TypeScript Data Structures
 
 ## Getting Started
 * `npm install`
@@ -7,4 +7,4 @@
 * **Testing:** [Jest](https://jestjs.io/)
 * **Docs:** [TypeDoc](https://typedoc.org/)
 * **Code Formatting:** [ESLint](https://eslint.org/)
-* **Continuous Integration**: [Travis CI](https://travis-ci.org/)
+* **Continuous Integration**: [GitHub Actions](https://github.com/features/actions)
